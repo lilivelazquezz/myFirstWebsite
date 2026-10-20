@@ -1,4 +1,4 @@
-# myFirstWebsite
+# My First Website
 My first website! [Link](https://lilivelazquezz.github.io/myFirstWebsite/).
 
 :jack_o_lantern:
